@@ -44,6 +44,6 @@ Veja nosso site adaptável em 🚩[Gatito PetShop](https://sass-gatito-petshop.v
 [Gabriela Vaz](https://www.linkedin.com/in/gabriela-lima-vaz/)
 <br>
 <br>
-### E aí, meu Git traveler! 🌐 Valeu pela passagem no meu repositório. Se curtiu, bora trocar mais ideias? Dá um Follow para continuarmos essa jornada juntos. Até mais, que os algoritmos estejam a seu favor! 😎💻
+### E aí, meu Git traveler! 🌐 Valeu pela passagem no meu repositório. Se curtiu, bora trocar mais ideias? Dá um [`Follow`](https://github.com/Rodolfo-Sampaio) para continuarmos essa jornada juntos. Até mais, que os algoritmos estejam a seu favor! 😎💻
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e8bff&height=110&section=footer"/>
